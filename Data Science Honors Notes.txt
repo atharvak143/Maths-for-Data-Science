@@ -1,0 +1,11 @@
+Outlier: A data value that is numerically distinct from dataset.
+
+Ex: 21 ,20, 22,25,9000,23
+9000 is a outlier value.
+
+Outlier will affect on mean and 
+
+Outlier will affect the Median and mode.
+
+When the data categorical and small quantity then to visualize the data however if your data is medium then it is suggested frequency distribution table and then plot histogram from that frequency distribition table.
+
